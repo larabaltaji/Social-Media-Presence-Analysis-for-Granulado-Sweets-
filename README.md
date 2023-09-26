@@ -9,6 +9,7 @@ The project outline is:
 - Getting insights and trying different campaigns that reflect the insights 
 - Choosing the campaign that is expected to increase reach 
 
+_Check out the Jupyter notebook files and report for more information_
 
 
 
