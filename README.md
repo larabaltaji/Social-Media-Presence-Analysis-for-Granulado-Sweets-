@@ -1,4 +1,4 @@
-![image](https://github.com/larabaltaji/Social-Media-Presence-Analysis-for-Granulado-Sweets-/assets/114401660/80668330-e986-4e0f-a458-5143341ee2a6)![image](https://github.com/larabaltaji/Social-Media-Presence-Analysis-for-Granulado-Sweets-/assets/114401660/9a0bcb12-f606-4089-a6c2-b0adeb64efd6)# Social Media Presence Analysis for Granulado Sweets 
+# Social Media Presence Analysis for Granulado Sweets 
 
 Grandulado Sweets is a  start up that sells gourmet brigadeiro, bonbons of strawberries and grapes, pain de miel. It has 4452 followers on Instagram and 230 posts. It was founded on January 10, 2020 in Maracaibo, Venezuela. Granulado’s followers increased at first until the number reached a peak. The owner tried different engagement techniques but none of the trials succeeded in increasing the engagements and reach of her online shop.This project leverages social media analytics in order to create an online marketing campaign through Instagram and Facebook for Granulado Sweets. 
 
